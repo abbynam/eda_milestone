@@ -5,7 +5,6 @@ github_document:
 pandoc_args: ["--wrap=none"]
 always_allow_html: true
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
