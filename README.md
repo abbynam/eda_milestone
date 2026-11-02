@@ -1,14 +1,3 @@
----
-title: "README"
-output:
-github_document:
-pandoc_args: ["--wrap=none"]
-always_allow_html: true
----
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Chapter 10 R for Data Science Exercises
 
 #### Abby Nam, DS201
